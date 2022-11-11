@@ -17,7 +17,7 @@ To run the code in the project you need to install the required Python packages 
 
 Open the Anaconda prompt (in Mac and Linux, open a terminal window) and use the `cd` command (change directory) to the directory where you have installed the **SAR-TWL** repository.
 
-Create a new environment named `sartwl` with all the required packages and activate this environment by entering the following commands (one at a time):
+Create a new environment named `twlviewer` with all the required packages and activate this environment by entering the following commands (one at a time):
 
 ```
 conda env create --file env/environment.yml
