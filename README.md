@@ -29,10 +29,11 @@ If you have successfully activated `twlviewer`, your terminal command line promp
 
 ## 2. Running the code
 
-In the terminal window opened in the **twlviewer** directory enter the following command:
+In the terminal window opened in the **twlviewer** directory with the `twlviwer` environment activated (only needs to be activated if it wasnt done from the previous step) by enter the following commands one at a time:
 
 ```
+conda activate twlviewer
 jupyter notebook
 ```
 
-This will open a iPython session in your brower where you can run the cells and view your data
+This will open a iPython session in your brower where you can run the cells and view your data.
