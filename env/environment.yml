@@ -1,0 +1,11 @@
+name: twlviewer
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - hvplot
+  - jupyter
+  - matplotlib
+  - netCDF4
+  - python<3.10
+  - xarray
