@@ -29,10 +29,10 @@ If you have successfully activated `twlviewer`, your terminal command line promp
 
 ## 2. Running the code
 
-In the terminal window opened in the **twlviwer** directory enter the following command:
+In the terminal window opened in the **twlviewer** directory enter the following command:
 
 ```
->>> jupyter notebook
+jupyter notebook
 ```
 
 This will open a iPython session in your brower where you can run the cells and view your data
