@@ -17,11 +17,11 @@ To run the code in the project you need to install the required Python packages 
 
 Open the Anaconda prompt (in Mac and Linux, open a terminal window) and use the `cd` command (change directory) to the directory where you have installed the **SAR-TWL** repository.
 
-Create a new environment named `sartwl` with all the required packages and activate this environment by entering the following commands:
+Create a new environment named `twlviewer` with all the required packages and activate this environment by entering the following commands (one at a time):
 
 ```
->>> conda env create --file env/environment.yml
->>> conda activate twlviewer
+conda env create --file env/environment.yml
+conda activate twlviewer
 ```
 
 If you have successfully activated `twlviewer`, your terminal command line prompt will now start with `(twlviewer)`.
@@ -29,10 +29,11 @@ If you have successfully activated `twlviewer`, your terminal command line promp
 
 ## 2. Running the code
 
-In the terminal window opened in the **twlviwer** directory enter the following command:
+In the terminal window opened in the **twlviewer** directory with the `twlviwer` environment activated (only needs to be activated if it wasnt done from the previous step) by enter the following commands one at a time:
 
 ```
->>> jupyter notebook
+conda activate twlviewer
+jupyter notebook
 ```
 
-This will open a iPython session in your brower where you can run the cells and view your data
+This will open a iPython session in your brower where you can run the cells and view your data.
