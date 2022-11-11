@@ -41,4 +41,4 @@ conda activate twlviewer
 jupyter notebook
 ```
 
-This will open a iPython session in your brower where you can open the `twlviewer` notebook and run the cells to view TWL data. Example datsets have beeen included in the **data** directory.
+This will initiate a iPython session in your defult brower where you can open the `twlviewer` notebook and run the cells to view TWL data. Example datsets have beeen included in the **data** directory.
