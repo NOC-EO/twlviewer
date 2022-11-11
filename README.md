@@ -1,6 +1,6 @@
 ##### twlviewer
 
-The twlviewer package can be used to open and view the results from TWL processing. 
+The `twlviewer` package can be used to open and view the results from TWL processing. 
 
 ## 1. Installation
 
