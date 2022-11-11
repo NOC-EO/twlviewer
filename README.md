@@ -1,7 +1,7 @@
 ##### twlviewer
 
 <p align="left">
-  <img src="/image/viewer.jpeg" width="500">
+  <img src="/image/viewer.jpg" width="500">
 </p>
 
 
