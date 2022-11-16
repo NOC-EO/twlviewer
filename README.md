@@ -46,11 +46,11 @@ This will initiate a iPython session in your defult brower where you can open th
 
 ## 3. Useful resouces
 
-[anaconda basics tutoral]  (https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+[anaconda basics tutoral](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
-[conda cheatsheet] (https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
+conda cheatsheet (https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 
-[command window basics tutorial] (https://www.youtube.com/watch?v=MBBWVgE0ewk)
+command window basics tutorial (https://www.youtube.com/watch?v=MBBWVgE0ewk)
 
 have fun ...
 
