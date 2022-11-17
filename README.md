@@ -50,6 +50,8 @@ This will initiate a iPython session in your defult brower where you can open th
 
 [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 
+this one is a bit dated but the content is still the same but note that you are best opening an anaconda command window known as an `Anaconda Prompt` from the start menu (once anaconda has been installed)
+
 [command window basics tutorial](https://www.youtube.com/watch?v=MBBWVgE0ewk)
 
 have fun ...
