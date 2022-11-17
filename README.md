@@ -20,7 +20,7 @@ The `twlviewer` package can be used to open and view the results from TWL proces
 
 To run the code in the project you need to install the required Python packages in an environment. To do this we will use **Anaconda**, which can be downloaded [here](https://www.anaconda.com/download/).
 
-Open the Anaconda prompt (in Mac and Linux, open a terminal window) and use the `cd` command (change directory) to the directory where you have installed the **SAR-TWL** repository.
+Open an `Anaconda Prompt` from the start menu for Windows users or a terminal window for Mac and Linux and use the `cd` command (change directory) to the directory where you have installed the **SAR-TWL** repository. If you are unfamiliar with command windows check out the resources below ...
 
 Create a new environment named `twlviewer` with all the required packages and activate this environment by entering the following commands (one at a time):
 
